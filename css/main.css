@@ -17,6 +17,8 @@ body {
 }
 
 .banner-content {
+  left: 50%;
+  transform: translateX(-50%);
   padding: 0 1rem;
   position: absolute;
   bottom: 1rem;
